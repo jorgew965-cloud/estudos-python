@@ -1,0 +1,5 @@
+#converter operaçao matematica para o python
+x = 10 + 20 * 30
+y = 4 ** 2 / 30
+z = ( 9 **  4 + 2) * 6 - 1
+print(f'X e{x} y e {y} z e{z}')

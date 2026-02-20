@@ -1,0 +1,1 @@
+#O programa Da erro, porque ñ existe if ou else que defina o caso que seja se o a for igual a b

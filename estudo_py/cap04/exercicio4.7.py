@@ -1,0 +1,1 @@
+#Sim, pois tudo que não se encaixa nas condições do if se encaixaria nas condições do else, então ,sim  é possivel

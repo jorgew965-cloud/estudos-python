@@ -1,0 +1,1 @@
+#O a tabela explica que as linhas puladas são a do preço porque se a condição não for cumprida passa para o proximo else:
